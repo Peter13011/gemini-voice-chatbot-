@@ -1,5 +1,3 @@
-# gemini-voice-chatbot-
-
 # Gemini Voice Chatbot (Arabic Edition)
 
 This is a simple, voice-activated AI chatbot powered by Google’s Gemini API. I built this project to create a seamless voice assistant experience directly in the browser, specifically tuned for Arabic (ar-SA) speech recognition and synthesis.
